@@ -10,7 +10,7 @@ public class Main {
         } else {
             bonus = 0;
         }
-        System.out.println ("Сумма счета " + (score + replenishment + bonus));
+        System.out.println ("Сумма счета " + (score + replenishment + bonus) + " рублей");
         System.out.println ("Сумма бонуса " + bonus + " рублей");
     }
 }
